@@ -326,8 +326,12 @@ switch ($locale) {
         'Microsoft.WebpImageExtension',
         'Microsoft.DesktopAppInstaller',
         'WindSynthBerry',
+	'*Xelion*',
         'MIDIBerry',
+	'*Teams*',
         'Slack',
+	'*Intel*',
+ 	'*Clevoco*',
         'Microsoft.SecHealthUI'
     )
     ##If $customwhitelist is set, split on the comma and add to whitelist
