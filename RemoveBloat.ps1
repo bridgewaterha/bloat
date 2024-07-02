@@ -331,6 +331,8 @@ switch ($locale) {
 	'*Teams*',
         'Slack',
 	'*Intel*',
+ 	'*Nvidia*',
+  	'*AMD*',
  	'*Clevoco*',
         'Microsoft.SecHealthUI'
     )
